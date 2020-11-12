@@ -1,2 +1,1 @@
-asdfgh
-asd
+print("first test")
